@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.cabeçalho{
+    background-color: #1d1d1f;
+    height: 40px;
+    align-items: center;
+    padding: 5px;
+    
+    
+    
+
+}
+
+.icones{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-left: 525px;
+   margin-right: 525px;
+   gap: 22px
+}
+
+.imagem-cabeçalho{
+    width: 30px;
+
+}
+
+.ancoras{
+    font-size: 14px;
+    color:#888 ;
+    font-weight: 500;
+    padding-bottom: 4px;
+}
+ .check{
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 4px;
+    color: #fff;
+    border-bottom: solid 0.4px #fff;
+ }
